@@ -1,16 +1,56 @@
-# React + Vite
+# 📝 Task Management App (TaskFlow Pro)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern and responsive **Task Management Web App** built using **React + Vite**, **TailwindCSS**, and **Framer Motion**.  
+Easily create, update, and organize your daily tasks with smooth animations and persistent local storage support.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Live Demo
 
-## React Compiler
+🌐 **[View Live on Firebase](https://your-firebase-link.web.app/)** *(Update this once deployed)*
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## 🧠 Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+✅ Create, edit, and delete tasks  
+✅ Categorize tasks by **Status** and **Priority**  
+✅ Search and filter tasks instantly  
+✅ Persistent **Local Storage** data  
+✅ Beautiful UI using **TailwindCSS**  
+✅ Smooth transitions with **Framer Motion**  
+✅ Responsive across all devices  
+
+---
+
+## 🛠️ Technologies Used
+
+⚛️ React – Frontend UI framework
+
+🌀 Vite – Lightning-fast build tool
+
+🎨 Tailwind CSS – Modern utility-first CSS framework
+
+🎞️ Framer Motion – Smooth animations and transitions
+
+🧩 React Router DOM – Routing and navigation
+
+💾 Local Storage – Persistent client-side data storage
+
+🧠 Lucide React – Beautiful, lightweight icons
+
+
+---
+
+📧 Contact
+
+👨‍💻 Developed by: Vivek Raja
+
+📮 Email: rajavivek773@gmail.com
+
+🌍 GitHub: https://github.com/VivekRaja01
+
+💖 Support
+
+If you like this project, please ⭐ star the repository and share it with others!
+Your support helps me keep improving and building more awesome apps 🚀✨.
