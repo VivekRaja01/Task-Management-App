@@ -26,8 +26,7 @@ Every task is automatically saved in the browser using 💾 Local Storage, ensur
 
 ## 🚀 Live Demo
 
-🌐 **[View Live on Firebase](https://your-firebase-link.web.app/)** *(Update this once deployed)*
-
+🌐 https://task-management-lpw1gg607-vivek-rajas-projects-85a2408e.vercel.app/
 ---
 
 ## 🧠 Features
