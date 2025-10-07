@@ -1,4 +1,4 @@
-📝 Task Management App (TaskFlow Pro)
+## 📝 Task Management App (TaskFlow Pro)
 
 TaskFlow Pro is a sleek and intuitive Task Management Web Application designed to help users efficiently plan, track, and manage their daily workflow. Built with ⚛️ React + ⚡ Vite, it delivers lightning-fast performance, while 🎨 TailwindCSS ensures a clean, modern, and fully responsive interface that adapts beautifully across devices.
 
@@ -6,7 +6,7 @@ This app empowers users to create, update, and organize tasks effortlessly — c
 
 Every task is automatically saved in the browser using 💾 Local Storage, ensuring your progress is never lost — even after refreshing or closing the tab. Whether you’re managing personal goals, academic projects, or work assignments, TaskFlow Pro helps you stay productive, focused, and organized every day.
 
-✨ Key Highlights
+## ✨ Key Highlights
 
 🖥️ Smooth & Responsive UI – Modern, mobile-friendly design using TailwindCSS.
 
@@ -61,7 +61,7 @@ Every task is automatically saved in the browser using 💾 Local Storage, ensur
 
 ---
 
-📧 Contact
+## 📧 Contact
 
 👨‍💻 Developed by: Vivek Raja
 
