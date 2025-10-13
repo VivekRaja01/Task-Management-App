@@ -26,7 +26,7 @@ Every task is automatically saved in the browser using 💾 Local Storage, ensur
 
 ## 🚀 Live Demo
 
-🌐 https://task-management-lpw1gg607-vivek-rajas-projects-85a2408e.vercel.app/
+🌐 https://task-management-app-gamma-black.vercel.app/
 ---
 
 ## 🧠 Features
